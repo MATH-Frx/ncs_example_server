@@ -6,11 +6,16 @@ An example of a possible server with NextCitizens.
 
 ## Installation
 
-Start NCS exemple server, linux:
+Start NCS exemple server,
 
 ```bash
   ...
 ```
+
+## Discord
+
+[Official Discord of NextCitizens.](https://discord.gg/T8u4JsserD)
+
     
 ## License
 
